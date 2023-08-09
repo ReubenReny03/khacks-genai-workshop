@@ -14,12 +14,12 @@ const config = {
   url: 'https://github.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/doci-web/',
+  baseUrl: '/khacks-genai-workshop /',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ReubenReny03', // Usually your GitHub org/user name.
-  projectName: 'doci-web', // Usually your repo name.
+  projectName: 'khacks-genai-workshop ', // Usually your repo name.
   deploymentBranch: "gh-pages",
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
